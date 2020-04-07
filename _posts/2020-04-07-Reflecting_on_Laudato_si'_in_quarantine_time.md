@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Reflecting on Laudato si' in quarantine time"
-subtitle:   "subtitle"
+subtitle:   ""
 date:       2020-04-07 12:00:00
 author:     "Xinyi Tang"
 header-img: "img/laudatosi.jpg"
