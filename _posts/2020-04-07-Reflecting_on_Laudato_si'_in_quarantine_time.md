@@ -13,7 +13,8 @@ tags:
 
 On 27rd March, Pope held a special Urbi et Orbi blessing from the steps of St. Peter’s Basilica. This event is usually held only for Christmas and Easter. But this time it is reserved for coronavirus. Pope addressed that the pandemic exposes “our vulnerability and uncovers those false and superfluous certainties around which we have constructed our daily schedules” and lays bare “all those attempts to anesthetize ourselves”. "We are on the same boat", said Pope Francis. 
 
-![pope-stand-alone](../pope-stand-alone.jpg)
+<img src="//https://nineteencommas.github.io/img/pope-stand-alone.jpg"
+     alt="pope stand alone when Urbi et Orbi">
 
 ## Same ideas reflected in Laudato si'
 
@@ -30,6 +31,10 @@ In Laudato si', Pope Francis addressed that technological progress are not bound
 We work and create for a reason. 'God placed man and woman in the garden he had created (cf. Gen 2:15) not only to preserve it (“keep”) but also to make it fruitful (“till”). Labors and craftsmen thus “maintain the fabric of the world” (Sir 38:34).'(Laudato si §124).  Lynn White put it in a similar way in Western Technology[1]. 'Technology is part of god's compassion for mankind.'  Technology is developed in the first place to save labor efforts. It's a tool to save people from hard manual work. God created mankind and also reflected himself in the creature he made. Mankind is no difference. There is innate virtue in humanity. We see a world under development, and there is innate voice in humanity that urges us to create, to make the world a better place. The desire to create is the motivation for technological progress. Thus, technological progress is not meant to make people lose their jobs. When we consider unemployment problems, we need to think about what is hindering workers from creating and crafting. What they lack is proper education and guidance that allows them to fulfill their ambition and use their creativity as they are entitled to do.
 
 ![ecology-and-virus](../Ecology_and_Virus.jpg)
+
+
+<img src="//https://nineteencommas.github.io/img/Ecology_and_Virus.jpg"
+     alt="Ecology and virus">
 
 ## Technology is good for the world
 
