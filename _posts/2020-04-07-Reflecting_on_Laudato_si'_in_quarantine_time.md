@@ -1,10 +1,19 @@
-
+---
+layout:     post
+title:      "Reflecting on Laudato si' in quarantine time"
+subtitle:   "subtitle"
+date:       2020-04-07 12:00:00
+author:     "Xinyi Tang"
+header-img: "img/laudatosi.jpg"
+tags:
+    - Religions
+---
 
 # Reflecting on Laudato si' in quarantine time
 
 On 27rd March, Pope held a special Urbi et Orbi blessing from the steps of St. Peter’s Basilica. This event is usually held only for Christmas and Easter. But this time it is reserved for coronavirus. Pope addressed that the pandemic exposes “our vulnerability and uncovers those false and superfluous certainties around which we have constructed our daily schedules” and lays bare “all those attempts to anesthetize ourselves”. "We are on the same boat", said Pope Francis. 
 
-![pope-stand-alone](C:\Users\yun65\OneDrive\桌面\img\pope-stand-alone.jpg)
+![pope-stand-alone](img/pope-stand-alone.jpg)
 
 ## Same ideas reflected in Laudato si'
 
@@ -19,6 +28,8 @@ The encyclical should not be considered from a mere religious perspective, despi
 In Laudato si', Pope Francis addressed that technological progress are not bound to bring us a bright future. The defect in humanity should also be changed to promise a bright future for mankind.(Laudato si' 113). In the encyclical, he mainly adopted a dialogue model for the relationship between science and technology. Technology and religion should work together to solve the current issues. What Pope did not explain explicitly is where does technology comes from. What drives people to create more advanced technology?  My point is that religion is a possible explanation for engineers' passion on creating things and solving problems. As an engineering student, every time I finish a project, I am proud of what I create from scratch. The happiness at the moment when I solved a technical issue in the project is memorable. But it's hard to describe where the joy comes from. In the text of Laudato si', I found a possible answer. 
 
 We work and create for a reason. 'God placed man and woman in the garden he had created (cf. Gen 2:15) not only to preserve it (“keep”) but also to make it fruitful (“till”). Labors and craftsmen thus “maintain the fabric of the world” (Sir 38:34).'(Laudato si §124).  Lynn White put it in a similar way in Western Technology[1]. 'Technology is part of god's compassion for mankind.'  Technology is developed in the first place to save labor efforts. It's a tool to save people from hard manual work. God created mankind and also reflected himself in the creature he made. Mankind is no difference. There is innate virtue in humanity. We see a world under development, and there is innate voice in humanity that urges us to create, to make the world a better place. The desire to create is the motivation for technological progress. Thus, technological progress is not meant to make people lose their jobs. When we consider unemployment problems, we need to think about what is hindering workers from creating and crafting. What they lack is proper education and guidance that allows them to fulfill their ambition and use their creativity as they are entitled to do.
+
+![pope-stand-alone](img/pope-stand-alone.jpg)
 
 ## Technology is good for the world
 
