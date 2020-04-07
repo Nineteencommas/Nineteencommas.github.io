@@ -13,7 +13,7 @@ tags:
 
 On 27rd March, Pope held a special Urbi et Orbi blessing from the steps of St. Peter’s Basilica. This event is usually held only for Christmas and Easter. But this time it is reserved for coronavirus. Pope addressed that the pandemic exposes “our vulnerability and uncovers those false and superfluous certainties around which we have constructed our daily schedules” and lays bare “all those attempts to anesthetize ourselves”. "We are on the same boat", said Pope Francis. 
 
-![pope-stand-alone](img/pope-stand-alone.jpg)
+![pope-stand-alone]("/img/pope-stand-alone.jpg")
 
 ## Same ideas reflected in Laudato si'
 
